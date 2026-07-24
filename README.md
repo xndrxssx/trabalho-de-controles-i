@@ -1,6 +1,6 @@
 # trabalho-de-controles-i
-Discentes: Andressa Carvalho, Hebert Henrique, Maria Nicolle
+**Discentes: Andressa Carvalho, Hebert Henrique, Maria Nicolle**
 
-Modelagem no Domínio da Frequência
+### Modelagem no Domínio da Frequência
 
 A modelagem matemática é uma das principais ferramentas da Engenharia de Controle, pois permite representar sistemas físicos através de equações que descrevem seu comportamento dinâmico. Entretanto, quando essa modelagem é realizada diretamente no domínio do tempo, surgem equações diferenciais que, em muitos casos, possuem solução complexa, dificultando tanto a análise quanto o projeto de sistemas de controle. Nesse contexto, a Transformada de Laplace representa uma importante ferramenta matemática, permitindo transformar equações diferenciais em equações algébricas. Essa transformação simplifica significativamente os cálculos e possibilita a obtenção da Função de Transferência do sistema, elemento fundamental para análise de estabilidade, resposta dinâmica e desenvolvimento de controladores. Neste trabalho foram estudados os conceitos apresentados no Capítulo 2 da obra de Nise, abordando a modelagem no domínio da frequência, as propriedades da Transformada de Laplace, a Transformada Inversa, o uso de frações parciais, impedâncias elétricas e mecânicas, funções de transferência e a modelagem de sistemas eletromecânicos. Como aplicação prática desses conceitos, foi resolvido o Problema 43 do capítulo, utilizando a linguagem Python para obtenção da função de transferência e simulação da resposta temporal do sistema.
